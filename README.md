@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Snowflake**
 
-- 💬 Ask me about **Data Analyst | Data Engineer**
+- 💬 Ask me about **Data Analyst | Data Engineer | AIML**
 
 - 📫 How to reach me **pawaneshkathait006@gmail.com**
 
